@@ -1,5 +1,5 @@
 # Clima-iOS13
-## Created a weather app on iOS -13 using openWeather Api and also used CoreData for saving and fetching saved data.
+## Created a weather app on iOS -13 using openWeather Api and also used CoreData for saving and fetching data.
 
 Developed a weather forecast application which uses Open weather API for helping the user’s with Fetching the current weather of a specific location or by using the location services of the device.
 
